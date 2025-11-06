@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maks2943
 - 👀 I’m interested in programmming and PC, I am Junior
-- 🌱 I’m currently learning a cyber security
+- 🌱 I’m currently learning a programming 
 - 📫 How to reach me: Mail
 - ⚡ Fun fact: I dont know :)
 
